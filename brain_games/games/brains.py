@@ -19,4 +19,5 @@ def brains(function, attempts=3):
 
 games_description = {
     'even': 'Answer "yes" if the number is even, otherwise answer "no".',
+    'calc': 'What is the result of the expression?'
 }
