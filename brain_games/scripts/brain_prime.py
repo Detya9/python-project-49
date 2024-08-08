@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 from brain_games.games.brains import brains
-from brain_games.games.gcd_game import gcd
+from brain_games.games.prime_game import prime
 
 
 def main():
-    brains(gcd)
+    brains(prime)
 
 
 if __name__ == '__main__':
