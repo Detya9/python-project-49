@@ -5,8 +5,8 @@
 <a href="https://codeclimate.com/github/Detya9/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/8f946a3d0094fac015ba/maintainability" /></a>
 
 ### How to install this games:
-First of all you need to install [poetry](https://python-poetry.org/docs/ "Гайд по установке poetry")
-Then print *make install build package-install*
+First of all you need to install [poetry](https://python-poetry.org/docs/ "Гайд по установке poetry").
+Then print **make install build package-install**
 
 ### Games:
 #### asciinema for brain games:
