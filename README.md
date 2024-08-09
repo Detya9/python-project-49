@@ -6,16 +6,18 @@
 
 ### How to install this games:
 First of all you need to install [poetry](https://python-poetry.org/docs/ "Гайд по установке poetry").
-Then print **make install build package-install**
-
+Then print:
+```
+**make install build package-install**
+```
 ### Games:
-#### asciinema for brain games:
-[asciinema for brain-even](https://asciinema.org/a/G9h8lfhQs4eIKrBf4IClHgW3Z "asciinema for brain_even")
-
-[asciinema for brain-calc](https://asciinema.org/a/YK3FvcxzaOu0Xvec6yBzc1AfX "asciinema for brain-calc")
-
-[asciinema for brain-gcd](https://asciinema.org/a/BBxuvJnfnCDOSWJOEkKPS75BU "asciinema for brain-gcd")
-
-[asciinema for brain-progression](https://asciinema.org/a/Ha676xCE1NK9KGmSiRUtJFaHE "asciinema for brain-progression")
-
-[asciinema for brain-prime](https://asciinema.org/a/U4ivA3Swf2geddxLl8soyEPfq "asciinema for brain-prime")
+#### Brain-even game:
+<script src="https://asciinema.org/a/G9h8lfhQs4eIKrBf4IClHgW3Z.js" id="asciicast-G9h8lfhQs4eIKrBf4IClHgW3Z" async="true"></script>
+#### Brain-calc game:
+<script src="https://asciinema.org/a/YK3FvcxzaOu0Xvec6yBzc1AfX.js" id="asciicast-YK3FvcxzaOu0Xvec6yBzc1AfX" async="true"></script>
+#### Brain-gcd game:
+<script src="https://asciinema.org/a/BBxuvJnfnCDOSWJOEkKPS75BU.js" id="asciicast-BBxuvJnfnCDOSWJOEkKPS75BU" async="true"></script>
+#### Brain-progression game:
+<script src="https://asciinema.org/a/Ha676xCE1NK9KGmSiRUtJFaHE.js" id="asciicast-Ha676xCE1NK9KGmSiRUtJFaHE" async="true"></script>
+#### Brain-prime game:
+<script src="https://asciinema.org/a/U4ivA3Swf2geddxLl8soyEPfq.js" id="asciicast-U4ivA3Swf2geddxLl8soyEPfq" async="true"></script>

@@ -1,17 +1,20 @@
-from brain_games.greetings import welcome_user
+import prompt
 
 
 def brains(game, attempts=3):
-    username = welcome_user()
+    print('Welcome to the Brain Games!')
+    username = prompt.string('May I have your name? ')
+    print(f'Hello, {username}!')
     print(game.GAME_DESCRIPTION)
     for i in range(attempts):
-        question, correct_answer = game.get_question()
+        question, correct_answer = game.generate_round_data()
         print(f'Question: {question}')
         answer = input('Your answer: ')
         if answer != correct_answer:
             print(f"'{answer}' is wrong answer"
                   f" ;(. Correct answer was '{correct_answer}'.")
             print(f"Let's try again, {username}!")
-            return
+            break
         print('Correct!')
-    print(f'Congratulations, {username}!')
+    else:
+        print(f'Congratulations, {username}!')

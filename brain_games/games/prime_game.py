@@ -7,14 +7,14 @@ GAME_DESCRIPTION = 'Answer "yes" if given number is prime.' \
 
 def is_prime(number):
     if number == 1:
-        return 'no'
+        return False
     for num in range(2, round(sqrt(number)) + 1):
         if number % num == 0:
-            return 'no'
-    return 'yes'
+            return False
+    return True
 
 
-def get_question():
+def generate_round_data():
     question = randint(1, 1000)
-    correct_answer = is_prime(question)
+    correct_answer = ('no', 'yes')[is_prime(question)]
     return question, correct_answer

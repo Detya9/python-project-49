@@ -9,7 +9,7 @@ def get_gcd(first_number, second_number):
             return str(number)
 
 
-def get_question():
+def generate_round_data():
     first_number = randint(1, 100)
     second_number = randint(1, 100)
     question = f'{first_number} {second_number}'
