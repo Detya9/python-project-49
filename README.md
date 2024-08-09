@@ -12,12 +12,12 @@ make install build package-install
 ```
 ### Games:
 #### Brain-even game:
-![Brain-even game](<script src="https://asciinema.org/a/G9h8lfhQs4eIKrBf4IClHgW3Z.js" id="asciicast-G9h8lfhQs4eIKrBf4IClHgW3Z" async="true"></script>)
+(<script src="https://asciinema.org/a/G9h8lfhQs4eIKrBf4IClHgW3Z.js" id="asciicast-G9h8lfhQs4eIKrBf4IClHgW3Z" async="true"></script>)
 #### Brain-calc game:
-![Brain-calc game](<script src="https://asciinema.org/a/YK3FvcxzaOu0Xvec6yBzc1AfX.js" id="asciicast-YK3FvcxzaOu0Xvec6yBzc1AfX" async="true"></script>)
+(<script src="https://asciinema.org/a/YK3FvcxzaOu0Xvec6yBzc1AfX.js" id="asciicast-YK3FvcxzaOu0Xvec6yBzc1AfX" async="true"></script>)
 #### Brain-gcd game:
-![Brain-gcd game](<script src="https://asciinema.org/a/BBxuvJnfnCDOSWJOEkKPS75BU.js" id="asciicast-BBxuvJnfnCDOSWJOEkKPS75BU" async="true"></script>)
+(<script src="https://asciinema.org/a/BBxuvJnfnCDOSWJOEkKPS75BU.js" id="asciicast-BBxuvJnfnCDOSWJOEkKPS75BU" async="true"></script>)
 #### Brain-progression game:
-![Brain-progression game](<script src="https://asciinema.org/a/Ha676xCE1NK9KGmSiRUtJFaHE.js" id="asciicast-Ha676xCE1NK9KGmSiRUtJFaHE" async="true"></script>)
+(<script src="https://asciinema.org/a/Ha676xCE1NK9KGmSiRUtJFaHE.js" id="asciicast-Ha676xCE1NK9KGmSiRUtJFaHE" async="true"></script>)
 #### Brain-prime game:
-![Brain-prime game](<script src="https://asciinema.org/a/U4ivA3Swf2geddxLl8soyEPfq.js" id="asciicast-U4ivA3Swf2geddxLl8soyEPfq" async="true"></script>)
+(<script src="https://asciinema.org/a/U4ivA3Swf2geddxLl8soyEPfq.js" id="asciicast-U4ivA3Swf2geddxLl8soyEPfq" async="true"></script>)
