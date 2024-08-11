@@ -1,7 +1,7 @@
 import prompt
 
 
-def brains(game, attempts=3):
+def start(game, attempts=3):
     print('Welcome to the Brain Games!')
     username = prompt.string('May I have your name? ')
     print(f'Hello, {username}!')
